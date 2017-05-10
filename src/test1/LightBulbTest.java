@@ -19,6 +19,7 @@ public class LightBulbTest {
 	public void test() {
 		//fail("Not yet implemented");
 		assertEquals(2000,LightBulbTest1.getEnergy());
+		System.out.println("GOOD MORNING");
 	}
 
 }
